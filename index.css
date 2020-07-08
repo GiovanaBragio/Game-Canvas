@@ -1,0 +1,19 @@
+html { 
+    background-color: black;
+  }
+
+canvas {
+    background:url('https://img.freepik.com/vetores-gratis/fundo-de-cartao-de-dia-das-bruxas-do-castelo-assombrado_1268-7709.jpg?size=626&ext=jpg') no-repeat center center fixed; 
+    
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-top: 2vw;
+
+}
